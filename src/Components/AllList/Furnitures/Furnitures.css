@@ -1,0 +1,39 @@
+.furniture-container {
+  overflow: hidden;
+}
+
+.bullet {
+  margin-right: 16px;
+}
+
+.bullet li {
+  list-style: none;
+}
+
+.bullet li:before {
+  margin-right: 15px;
+  content: "\22A0";
+  color: rgb(185, 74, 74);
+}
+
+@media (max-width: 576px) {
+  .bullet li {
+    text-align: center;
+  }
+  .bullet li:before {
+    margin-right: 10px;
+  }
+
+  .sale-msg {
+    display: none;
+  }
+  .sale-img {
+    width: 65%;
+    text-align: center;
+    margin-top: 10px;
+  }
+
+  .f-banner {
+    width: 100%;
+  }
+}

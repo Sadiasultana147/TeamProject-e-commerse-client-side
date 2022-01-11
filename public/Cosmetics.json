@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Face wash",
+        "brand": "Olay",
+        "feature": "Great for most skin types",
+        "price": 10.98,
+        "img": "https://i.ibb.co/sJ63LgL/6000196794424.jpg"
+    },
+    {
+        "title": "Face Cream",
+        "brand": "The Body Shop",
+        "feature": "Uber-rich and non-greasy",
+        "price": "24",
+        "img": "https://i.ibb.co/bJbh3gh/VITAMIN-E-INTENSE-MOISTURE-CREAM-50-ML-1-INRSDPS081.jpg"
+    },
+    {
+        "title": "Shampoo",
+        "brand": "Dove",
+        "feature": "Good for thin hair, helps boost body and bounce",
+        "price": "5.47",
+        "img": "https://i.ibb.co/zSC38bn/6000204138508.jpg"
+    },
+    {
+        "title": "Foundation",
+        "brand": "elf",
+        "feature": "A lightweight, formula, blends naturally for a beautiful semi-matte finish",
+        "price": 16.80,
+        "img": "https://i.ibb.co/wgVVhZP/6000197965131.jpg"
+    },
+    {
+        "title": "Lipstick",
+        "brand": "Milani",
+        "feature": "This luxurious formula glides onto lips evenly and precisely for all-day wear, rich color payoff and a silky satin matte finish.",
+        "price": 11.97,
+        "img": "https://i.ibb.co/FKD1rwy/6000200707351.jpg"
+    }
+]

@@ -1,0 +1,27 @@
+.collection-card {
+  height: 350px;
+  min-height: 350px;
+  /* box-shadow: 5px 5px 10px salmon; */
+}
+
+.collection-img {
+  height: 250px;
+  min-height: 250px;
+}
+
+@media (max-width: 576px) {
+  .collection-card {
+    width: 100%;
+    height: 310px;
+    min-height: 310px;
+  }
+  .collection-img {
+    width: 90%;
+    height: 200px;
+    min-height: 200px;
+  }
+  .e-btn {
+    flex-direction: column;
+    flex-wrap: wrap;
+  }
+}

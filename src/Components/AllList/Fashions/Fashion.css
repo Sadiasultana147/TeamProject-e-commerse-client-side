@@ -1,0 +1,11 @@
+.fashion-card {
+  height: 470px;
+  min-height: 470px;
+  border-radius: 10px;
+  box-shadow: 5px 5px 10px salmon;
+}
+
+.fashion-img {
+  height: 300px;
+  min-height: 300px;
+}

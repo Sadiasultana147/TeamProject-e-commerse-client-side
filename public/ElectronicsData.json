@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Television",
+        "brand": "Samsung",
+        "feature": "Q70 Series 65-Inch 4K UHD Smart Monitor",
+        "price": 248,
+        "img": "https://i.ibb.co/f4vV6jW/01-RU7300-L-Perspective-Black-031519.jpg"
+    },
+    {
+        "title": "Camera",
+        "brand": "Canon",
+        "feature": "24.1 Megapixel CMOS (APS-C) Sensor with ISO 100-6400 (H 12800)",
+        "price": "510.93",
+        "img": "https://i.ibb.co/4jWcqHk/816-f-DA2-UWL-AC-SL1500.jpg"
+    },
+    {
+        "title": "Laptop",
+        "brand": "Lenovo",
+        "feature": "IdeaPad Slim 7 Intel (14 -inch) - Slate Grey with Fabric",
+        "price": "1850",
+        "img": "https://i.ibb.co/2SkH6DT/lenovo-ideapad-slim-7-14-intel-grey-hero.png"
+    },
+    {
+        "title": "Cell Phone",
+        "brand": "Google",
+        "feature": "Google Pixel 6- Unlocked Android 5G Smartphone with 50 Megapixel Camera and Wide-Angle Lens- 128 GB- Stormy Black",
+        "price": 798.99,
+        "img": "https://i.ibb.co/cFfQY74/71ekh-W8-HBg-L-AC-SL1500.jpg"
+    },
+    {
+        "title": "Watch",
+        "brand": "Apple",
+        "feature": "Series 7 (GPS, 45mm) - Midnight Aluminium Case with Midnight Sport Band",
+        "price": 569.99,
+        "img": "https://i.ibb.co/JkNzVx7/71fxj9-HPLPL-AC-SL1500.jpg"
+    }
+]

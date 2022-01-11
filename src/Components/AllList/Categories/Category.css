@@ -1,0 +1,16 @@
+.category-card {
+  height: 320px;
+  min-height: 320px;
+}
+
+.category-img {
+  height: 200px;
+  min-height: 200px;
+}
+
+@media (max-width: 576px) {
+  .category-card {
+    height: 360px;
+    min-height: 360px;
+  }
+}

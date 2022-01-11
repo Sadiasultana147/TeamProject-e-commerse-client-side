@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "img": "https://i.ibb.co/fQhN3Rm/support-1.png",
+        "title": "Free Shipping",
+        "description": "Free shipping on all order"
+    },
+    {
+        "id": 2,
+        "img": "https://i.ibb.co/jWMxxt9/support-2.png",
+        "title": "Support 24/7",
+        "description": "Great customer service"
+    },
+    {
+        "id": 3,
+        "img": "https://i.ibb.co/DRz8By9/support-3.png",
+        "title": "Money Return",
+        "description": "Refund while not satisfied"
+    },
+    {
+        "id": 4,
+        "img": "https://i.ibb.co/Pzd1qLy/support-4.png",
+        "title": "Order Discount",
+        "description": "Special discount for members"
+    }
+]

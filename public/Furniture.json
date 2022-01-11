@@ -1,0 +1,37 @@
+[
+    {
+        "title": " King Bedroom Set",
+        "brand": "K-Living",
+        "feature": "Modern bedroom set in white lacquer finish.The set includes: 1 King Bed, 1 Nightstand, 1 Dresser, 1 Mirror and 1 Chest.",
+        "price": 5289.97,
+        "img": "https://i.ibb.co/mtNMHG7/6000203074416.jpg"
+    },
+    {
+        "title": "Love Seat",
+        "brand": "Infinite Imports",
+        "feature": "Modern Set; Chrome Legs; High Density Seating; Removable Backs Make It Easy To Take Into Any Room",
+        "price": "649",
+        "img": "https://i.ibb.co/YB91Pvv/ca9df474-52de-4bd1-a8c3-89184647efdd-63ea180f7a17179437488cc4ccfb8d61.jpg"
+    },
+    {
+        "title": "Weston Dining Set",
+        "brand": "K-Living",
+        "feature": "Charismatic appearance and great functionality: The Main attraction on this table is the stylish, sleek and compact look which brings your home A new spark.",
+        "price": "697.97",
+        "img": "https://i.ibb.co/2tBQfrh/6000204362536.jpg"
+    },
+    {
+        "title": "Loft Bed with Desk",
+        "brand": "South Shore",
+        "feature": "The Tiara loft bed is everything she could wish for: a desk for doing homework, storage for clothes, a space on the upper level for her bedtime reading and alarm, and- best of all- a real, secret hiding place where she can play in peace and quiet!",
+        "price": 999.99,
+        "img": "https://i.ibb.co/hVrDGRz/6000198217855.jpg"
+    },
+    {
+        "title": "Office Desk",
+        "brand": "Monarch Specialties Inc",
+        "feature": "This multi-functional desk offers room for your computer or laptop, a lamp and even decorative items. This is a great back-to school gift for your studious children and even any adult. They wont want to leave their desk.",
+        "price": 547.98,
+        "img": "https://i.ibb.co/N67Q1pL/6000202483443.jpg"
+    }
+]

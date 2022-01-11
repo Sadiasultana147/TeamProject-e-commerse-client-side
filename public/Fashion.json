@@ -1,0 +1,52 @@
+[
+    {
+        "title": "Women's Vintage Formal Cocktail Evening Party Swing Dress",
+        "feature": {
+            "color": "Burgundy",
+            "material": "Mesh",
+            "composition": "100% Polyester"
+        },
+        "price": 62,
+        "img": "https://i.ibb.co/VNDLktn/16193386520fc833a05bd460b3b2ce6f402ca3c125.webp"
+    },
+    {
+        "title": "Leopard Panel Double Breasted Teddy Coat",
+        "feature": {
+            "color": "Green",
+            "material": "Fleece",
+            "composition": "100% Polyester"
+        },
+        "price": 59,
+        "img": "https://i.ibb.co/gRPssj7/163160335690236c2cfe49cdc171ebc6f76b23b357-thumbnail-900x.webp"
+    },
+    {
+        "title": "Men Zipper Vest Puffer Coat",
+        "feature": {
+            "color": "ArmyGreen",
+            "material": "Polyester",
+            "composition": "100% Polyester"
+        },
+        "price": 22,
+        "img": "https://i.ibb.co/wy6rrj2/1635212898a22ae33132f654de1b9b735049f93d0c-thumbnail-900x.webp"
+    },
+    {
+        "title": "Men Buffalo Plaid Shirt",
+        "feature": {
+            "color": "Multicolor",
+            "material": "Polyester",
+            "composition": "100% Polyester"
+        },
+        "price": 45,
+        "img": "https://i.ibb.co/rtpbww0/1627648498cc6be4791c8d09fc5b0d8876e780127e-thumbnail-900x.webp"
+    },
+    {
+        "title": "Baby Plaid Print Floral Dress",
+        "feature": {
+            "color": "Pink",
+            "material": "Polyester",
+            "composition": "80% Polyester, 20% Cotton"
+        },
+        "price": 19,
+        "img": "https://i.ibb.co/tLtCk2X/1639124230e16bb1007fbe3ba9f89429c51ae35092-thumbnail-900x.webp"
+    }
+]

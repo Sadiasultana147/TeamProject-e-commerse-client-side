@@ -1,0 +1,37 @@
+[
+    {
+        "title": "Electric Bike",
+        "brand": "Hyper Bicycles",
+        "feature": "This 29-inch bike includes front and rear V-brakes for enhanced stopping power. It also has an integrated flush-mounted battery and a rear hub brushless motor. The battery charges in around 4 hours and lasts for about 20 miles",
+        "price": 998,
+        "img": "https://i.ibb.co/3cWMzDQ/6000201044463.jpg"
+    },
+    {
+        "title": "Fitness Incline Treadmill",
+        "brand": "Sunny Health & Fitness",
+        "feature": "Powered by a 1.5-peak horsepower motor, this indoor treadmill can achieve speeds between 1 km/h to 12 km/h. Made for walking and running.",
+        "price": 677.58,
+        "img": "https://i.ibb.co/vdtYPrY/6000202714520.jpg"
+    },
+    {
+        "title": " Inflatable Boat ",
+        "brand": "Tomshine",
+        "feature": "Portable and lightweight, can fold into small size, easy to carry and storage. Made of PVC material, and durable, keep a long service life.",
+        "price": 58.17,
+        "img": "https://i.ibb.co/SN9TrgT/ab1bab62-9b77-41a6-9aa2-af1171255b1d-f694e6dce2781902d9973caa4485d919.jpg"
+    },
+    {
+        "title": "Billiard Pool Table",
+        "brand": "EastPoint",
+        "feature": "Designed with professional K66 rubber bumpers that provide a consistent bounce and predictable shot, along with a smooth felt game table surface and parlor-style drop pockets.",
+        "price": 699.98,
+        "img": "https://i.ibb.co/KKyM30H/6000203732745.jpg"
+    },
+    {
+        "title": "Cabin Tent",
+        "brand": "Ozark Trail",
+        "feature": "This tent has you protected with the 1,200 mm water resistant coating & taped seams. During beautiful summer days unzip the 8 mesh windows for added air circulation.",
+        "price": 349.97,
+        "img": "https://i.ibb.co/jJSP9Tf/6000202387620.jpg"
+    }
+]

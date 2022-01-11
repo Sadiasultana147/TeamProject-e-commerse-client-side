@@ -1,0 +1,15 @@
+.detail-container {
+  background-image: url("../../../Images//background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative;
+}
+
+@media (max-width: 576px) {
+  .e-detail {
+    width: 100%;
+  }
+  e-img {
+    padding: 0;
+  }
+}

@@ -1,0 +1,41 @@
+.slider-container {
+  max-height: 500px;
+  background-color: rgb(200, 235, 241);
+}
+
+.slider-img {
+  height: 500px;
+  max-height: 500px;
+  width: 70%;
+}
+
+.slider-text {
+  margin-left: 160px;
+}
+
+.slider-btn {
+  background-color: salmon;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  width: 110px;
+}
+
+@media (max-width: 576px) {
+  .slider-container {
+    display: none;
+  }
+
+  /* .slider {
+    background-image: url("../../Images/11.jpg");
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 300px;
+  } */
+
+  .slider-img {
+    width: 100%;
+  }
+}

@@ -1,0 +1,15 @@
+.header-text {
+  margin-right: 25px;
+  text-decoration: none;
+  color: rgb(241, 244, 245);
+  font-size: 20px;
+  font-weight: 500;
+  line-height: 50px;
+}
+
+.menu-button {
+  background: rgb(134, 113, 74);
+  border: none;
+  font-size: 20px;
+  font-weight: 700;
+}

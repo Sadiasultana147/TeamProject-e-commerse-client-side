@@ -1,0 +1,23 @@
+.slider-container {
+  max-height: 500px;
+  background-color: rgb(200, 235, 241);
+}
+
+.slider-img {
+  height: 500px;
+  max-height: 500px;
+  width: 70%;
+}
+
+.slider-text {
+  margin-left: 160px;
+}
+
+.slider-btn {
+  background-color: salmon;
+  border: none;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  width: 110px;
+}

@@ -1,0 +1,18 @@
+.electronics {
+  background-image: url("../../../Images/electronics.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 450px;
+  min-height: 450px;
+}
+
+@media (max-width: 576px) {
+  .electronics {
+    background-position: top;
+    background-size: contain;
+    height: 200px;
+    min-height: 200px;
+    margin-top: 15px;
+  }
+}

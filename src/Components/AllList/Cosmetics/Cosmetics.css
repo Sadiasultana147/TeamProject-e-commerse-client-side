@@ -1,0 +1,14 @@
+/* .cosmetics {
+  background-image: url("../../../Images/cosmetics.jpg");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  height: 350px;
+  min-height: 350px;
+} */
+
+@media (max-width: 576px) {
+  .cosmetics-img {
+    text-align: center;
+  }
+}

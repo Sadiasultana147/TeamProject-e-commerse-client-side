@@ -1,0 +1,40 @@
+.search-field {
+  background-color: rgb(200, 235, 241);
+  overflow: hidden;
+}
+
+.search-container {
+  display: flex;
+  height: 12vh;
+  align-items: center;
+}
+
+.searchInputs {
+  display: flex;
+  background-color: rgb(250, 248, 248);
+  border-radius: 5px;
+  padding: 0 15px;
+}
+
+.search input {
+  border: none;
+  height: 40px;
+  width: 500px;
+}
+
+.cart {
+  margin-right: 10px;
+}
+
+@media (max-width: 576px) {
+  .search-container {
+    flex-direction: column;
+    height: 15vh;
+  }
+  .search {
+    margin-bottom: 7px;
+  }
+  .search input {
+    width: 75%;
+  }
+}
